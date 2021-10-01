@@ -29,5 +29,3 @@ You can add more values by accessing the index.js file from the package file , a
 Below are the list of the scientifc notations for the values! Thank you 😄
 ```
 # https://clickerheroes.fandom.com/wiki/Units
-
-ODExMTU3ODE4MDM1MjczNzQ4.YCuHlg.OHM8bcRtaEIN7vYLP8RbCmAss2s
