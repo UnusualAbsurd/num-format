@@ -1,7 +1,13 @@
 # number-prettier 
 Pretty a number and shortened it to make it look more pretty and simple.
 
-## How To Use ❓
+## Number Commas 🌠
+```js
+const { commas } = require('number-prettier')
+commas(1000000) // 1,000,000
+```
+
+## Number Formatting 📲
 ```js
 const { format } = require('number-prettier')
 format(1000, 2) // 1k
@@ -18,6 +24,9 @@ format(1000, 2) // 1k
 }
 ```
 ### Note
-`You can add more values by accessing the index.js file from the package file , and added the values on your own!`
-## https://clickerheroes.fandom.com/wiki/Units
-`Thats some list of the scientific notations for the values! Thank you!`
+```
+You can add more values by accessing the index.js file from the package file , and added the values on your own!
+Below are the list of the scientifc notations for the values! Thank you 😄
+```
+# https://clickerheroes.fandom.com/wiki/Units
+
